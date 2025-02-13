@@ -13,8 +13,8 @@ const navbarLinks = {
       text: 'contact',
     },
     {
-      path: '/contact',
-      text: 'Contact',
+      path: '/Error',
+      text: 'error',
     },
   ],
   de: [
