@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <HeaderNavigationBar />
-      <section className="mt-20">{children}</section>
+      <section className="p-navHeight bg-black">{children}</section>
       {/* <Footer /> */}
     </>
   )
